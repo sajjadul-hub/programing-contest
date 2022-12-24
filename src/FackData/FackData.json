@@ -1,0 +1,44 @@
+[
+  {
+    "id": "63346e785e6f7ed52b97f546",
+    "time": 35,
+    "title": "Primary level",
+    "img_link": "https://th.bing.com/th/id/R.ea054739049eb4503c4f71eba5b82ea9?rik=JZmd5cHN2VUG3Q&pid=ImgRaw&r=0",
+    "description": "On this page, you can see results and code from past Code Jam rounds. Best of all, you can try the problems yourself! We encourage you to explore the scoreboards, read through the problem sets, and practice."
+  },
+  {
+    "id": "63346e788cefdb1336ceb5e2",
+    "time": 51,
+    "title": "High school level",
+    "img_link": "https://th.bing.com/th/id/R.77c2f57636512df15ba04ea6570451be?rik=y08Sgx5tsGuhLg&pid=ImgRaw&r=0",
+    "description": "On this page, you can review past problem statements below, then check out the winning teams from past editions of Hash Code."
+  },
+  {
+    "id": "63346e788b70ecabe64ba77d",
+    "time": 34,
+    "title": "College level",
+    "img_link": "https://th.bing.com/th/id/R.ede218125a6c9c1040bb1e79550b69d2?rik=yf4lUrp9P9Y18g&riu=http%3a%2f%2fnews.cornell.edu%2fsites%2fdefault%2ffiles%2fstyles%2fstory_thumbnail_lg%2fpublic%2f2019-04%2f0411_programming_tnd.jpg%3fitok%3dBJWReQuP&ehk=sii2l5toz%2bcrJsFa2YVv0j%2fSyYfnS%2f5yjpWvY0ojj%2bo%3d&risl=&pid=ImgRaw&r=0",
+    "description": "On this page, you can see results and code from past Kick Start rounds. Best of all, you can try the problems yourself! We encourage you to explore the scoreboards, read through the problem sets, and practice."
+  },
+  {
+    "id": "63346e78bd2948fc3e4d3d3b",
+    "time": 36,
+    "title": "University level",
+    "img_link": "https://th.bing.com/th/id/OIP.uxIdM1dXj2WHNBHgTqMUfwHaFL?pid=ImgDet&rs=1",
+    "description": "On this page, you can see results and code from past Code Jam to I/O for Women rounds. Best of all, you can try the problems yourself! We encourage you to explore the scoreboards, read through the problem sets, and practice."
+  },
+  {
+    "id": "63346e781c6cad17669cf9ae",
+    "time": 30,
+    "title": "Junior level",
+    "img_link": "https://uknow.uky.edu/sites/default/files/styles/uknow_story_image/public/externals/94686f32e24aeb5c0c4f96037ff7363c.jpg",
+    "description": "you need to take part in tournaments and upgrade yourself. Similarly, if you want to be the most exemplary coder, you have to face challenges and showcase your programming skills."
+  },
+  {
+    "id": "63346e78eb2fe893305e01ef",
+    "time": 50,
+    "title": "Senior level",
+    "img_link": "https://th.bing.com/th/id/R.76d9f66041505f5ccbe6b333ff3ae195?rik=jbgUGaNiGnBXcw&pid=ImgRaw&r=0",
+    "description": "You need to take part in tournaments and upgrade yourself. Similarly, if you want to be the most exemplary coder, you have to face challenges and showcase your programming skills."
+  }
+]
